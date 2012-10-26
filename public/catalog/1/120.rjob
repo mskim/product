@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 120
+  name: 명품사과 사각세트
+  category: '175'
+  code: 10-02
+  brand: 항도
+  price: 40000.0
+  maker: 항도
+  description: 3.5kg(8과)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 44000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 10-02
+  catalog_id: 1
+  page_id: 121
+  created_at: 2012-10-25 08:51:50.145266000 Z
+  updated_at: 2012-10-25 10:37:48.584227000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/120.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 172
+  name: ! '[정관장]홍삼원 포르테'
+  category: '359'
+  code: 13-04
+  brand: (주)한국인삼공사
+  price: 26200.0
+  maker: (주)한국인삼공사
+  description: 50ml×30포
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 31000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 13-04
+  catalog_id: 1
+  page_id: 151
+  created_at: 2012-10-25 08:51:50.964317000 Z
+  updated_at: 2012-10-25 10:37:48.920033000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/172.pdf
+:preview: 'true'

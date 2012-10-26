@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 131
+  name: 명품 신고배세트1호
+  category: '175'
+  code: 11-03
+  brand: 예손
+  price: 55600.0
+  maker: 예손
+  description: 7.5kg(신고배 8~10과)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 60000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 11-03
+  catalog_id: 1
+  page_id: 122
+  created_at: 2012-10-25 08:51:50.298746000 Z
+  updated_at: 2012-10-25 10:37:48.633417000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/131.pdf
+:preview: 'true'

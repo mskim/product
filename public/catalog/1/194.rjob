@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 194
+  name: ! '[금삼]수삼세트'
+  category: '359'
+  code: 15-01-01
+  brand: ㈜금삼
+  price: 62300.0
+  maker: ㈜금삼
+  description: 특중 1kg(15~18편)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 66000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 15-01-01
+  catalog_id: 1
+  page_id: 152
+  created_at: 2012-10-25 08:51:51.295632000 Z
+  updated_at: 2012-10-25 10:37:48.976850000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/194.pdf
+:preview: 'true'

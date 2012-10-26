@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 246
+  name: ! '[WMF] 디아뎀 플러스 곰솥'
+  category: '297'
+  code: 19-09
+  brand: WMF
+  price: 110000.0
+  maker: WMF
+  description: ! '용량: 8.3L'
+  country_of_origin: 중국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 119000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 19-09
+  catalog_id: 1
+  page_id: 451
+  created_at: 2012-10-25 08:51:52.258155000 Z
+  updated_at: 2012-10-25 10:37:50.321646000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/246.pdf
+:preview: 'true'

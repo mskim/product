@@ -1,0 +1,85 @@
+<%= form_for(@item) do |f| %>
+  <% if @item.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@item.errors.count, "error") %> prohibited this item from being saved:</h2>
+
+      <ul>
+      <% @item.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :category %><br />
+    <%= f.text_field :category %>
+  </div>
+  <div class="field">
+    <%= f.label :code %><br />
+    <%= f.text_field :code %>
+  </div>
+  <div class="field">
+    <%= f.label :brand %><br />
+    <%= f.text_field :brand %>
+  </div>
+  <div class="field">
+    <%= f.label :price %><br />
+    <%= f.text_field :price %>
+  </div>
+  <div class="field">
+    <%= f.label :maker %><br />
+    <%= f.text_field :maker %>
+  </div>
+  <div class="field">
+    <%= f.label :description %><br />
+    <%= f.text_area :description %>
+  </div>
+  <div class="field">
+    <%= f.label :country_of_origin %><br />
+    <%= f.text_field :country_of_origin %>
+  </div>
+  <div class="field">
+    <%= f.label :delivery_method %><br />
+    <%= f.text_field :delivery_method %>
+  </div>
+  <div class="field">
+    <%= f.label :delivery_fee %><br />
+    <%= f.text_field :delivery_fee %>
+  </div>
+  <div class="field">
+    <%= f.label :inventory %><br />
+    <%= f.number_field :inventory %>
+  </div>
+  <div class="field">
+    <%= f.label :market_price %><br />
+    <%= f.text_field :market_price %>
+  </div>
+  <div class="field">
+    <%= f.label :sub_category %><br />
+    <%= f.text_field :sub_category %>
+  </div>
+  <div class="field">
+    <%= f.label :condition %><br />
+    <%= f.text_field :condition %>
+  </div>
+  <div class="field">
+    <%= f.label :image_url %><br />
+    <%= f.text_field :image_url %>
+  </div>
+  <div class="field">
+    <%= f.label :catalog_id %><br />
+    <%= f.number_field :catalog_id %>
+  </div>
+  <div class="field">
+    <%= f.label :page_id %><br />
+    <%= f.number_field :page_id %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

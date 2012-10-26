@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 24
+  name: ! '[名品횡성한우]명품세트4호'
+  category: '199'
+  code: 04-02-01
+  brand: ㈜명품횡성청정한우
+  price: 125600.0
+  maker: ㈜명품횡성청정한우
+  description: 로스 600g, 불고기 600g, 국거리 600g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 135000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 04-02-01
+  catalog_id: 1
+  page_id: 3
+  created_at: 2012-10-25 08:51:48.672341000 Z
+  updated_at: 2012-10-25 10:37:47.759236000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/24.pdf
+:preview: 'true'

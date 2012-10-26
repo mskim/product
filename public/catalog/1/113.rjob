@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 113
+  name: 만전골드세트
+  category: '207'
+  code: 09-07
+  brand: 만전식품
+  price: 57500.0
+  maker: 만전식품
+  description: 클로렐라돌김 전장 25g×8봉, 돌김 45g×4캔
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 60000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 09-07
+  catalog_id: 1
+  page_id: 65
+  created_at: 2012-10-25 08:51:50.047990000 Z
+  updated_at: 2012-10-25 10:37:48.262035000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/113.pdf
+:preview: 'true'

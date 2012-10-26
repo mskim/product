@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 239
+  name: 독일 [기펠] 항균도마세트레볼루션
+  category: '301'
+  code: 19-02
+  brand: 기펠
+  price: 35700.0
+  maker: 기펠
+  description: 생선용, 야채용, 블록
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 39000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 19-02
+  catalog_id: 1
+  page_id: 391
+  created_at: 2012-10-25 08:51:52.155373000 Z
+  updated_at: 2012-10-25 10:37:50.114143000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/239.pdf
+:preview: 'true'

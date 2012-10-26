@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 111
+  name: ! '[미래건해]자연가득 멸치세트1호'
+  category: '207'
+  code: 09-06
+  brand: 미래건해㈜
+  price: 35600.0
+  maker: 미래건해㈜
+  description: 자멸치 500g, 중멸치 500g, 대멸치 500g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 39000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 09-06
+  catalog_id: 1
+  page_id: 65
+  created_at: 2012-10-25 08:51:50.021829000 Z
+  updated_at: 2012-10-25 10:37:48.255440000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/111.pdf
+:preview: 'true'

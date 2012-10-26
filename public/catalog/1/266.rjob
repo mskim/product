@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 266
+  name: ! '[아이리버]HD급 블랙박스X350(8G)'
+  category: '456'
+  code: 21-09
+  brand: 아이리버
+  price: 166700.0
+  maker: 아이리버
+  description: 본체, 전원 카케이블, 설치 액세서리, 설명서
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 180000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 21-09
+  catalog_id: 1
+  page_id: 631
+  created_at: 2012-10-25 08:51:52.576833000 Z
+  updated_at: 2012-10-25 10:37:50.997425000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/266.pdf
+:preview: 'true'

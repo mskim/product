@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 262
+  name: ! '[레이캅]침구전용 살균청소기BG-200HP/YG'
+  category: '288'
+  code: 21-05
+  brand: 아이리버
+  price: 100000.0
+  maker: 아이리버
+  description: ! '색상: 핑크, 옐로우'
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 110000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 21-05
+  catalog_id: 1
+  page_id: 571
+  created_at: 2012-10-25 08:51:52.520742000 Z
+  updated_at: 2012-10-25 10:37:50.794137000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/262.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 35
+  name: ! '[논산축협]프리미엄 정육세트4호'
+  category: '199'
+  code: 04-06
+  brand: 논산축협
+  price: 103000.0
+  maker: 논산축협
+  description: 찜갈비 800g, 국거리 800g, 불고기 800g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 109000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 04-06
+  catalog_id: 1
+  page_id: 4
+  created_at: 2012-10-25 08:51:48.857517000 Z
+  updated_at: 2012-10-25 10:37:47.802256000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/35.pdf
+:preview: 'true'

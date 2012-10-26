@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 242
+  name: 글라스락 테이퍼 12조GL-D0012
+  category: '299'
+  code: 19-05
+  brand: 삼광유리
+  price: 34500.0
+  maker: 삼광유리
+  description: 정테이퍼(920ml×3, 500ml×3), 원테이퍼(730ml×3, 410ml×3)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 38000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 19-05
+  catalog_id: 1
+  page_id: 421
+  created_at: 2012-10-25 08:51:52.199931000 Z
+  updated_at: 2012-10-25 10:37:50.220400000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/242.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 118
+  name: ! '[지도표 성경김]명절기획세트9호'
+  category: '207'
+  code: 09-09-01
+  brand: 성경식품
+  price: 11300.0
+  maker: 성경식품
+  description: 녹차김30g×3, 식탁김(4g×3)×2, 돌미역30g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 11500.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 09-09-01
+  catalog_id: 1
+  page_id: 65
+  created_at: 2012-10-25 08:51:50.116962000 Z
+  updated_at: 2012-10-25 10:37:48.279493000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/118.pdf
+:preview: 'true'

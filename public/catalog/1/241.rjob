@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 241
+  name: 글라스락 강화유리 밀폐용기(7조)GL-D0107
+  category: '299'
+  code: 19-04
+  brand: 삼광유리
+  price: 16700.0
+  maker: 삼광유리
+  description: 직사각 유리용기(715ml×2, 400ml×2, 150ml×2), 쉐이커
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 25000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 19-04
+  catalog_id: 1
+  page_id: 421
+  created_at: 2012-10-25 08:51:52.182971000 Z
+  updated_at: 2012-10-25 10:37:50.216961000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/241.pdf
+:preview: 'true'

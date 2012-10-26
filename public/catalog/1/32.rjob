@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 32
+  name: ! '[논산축협]1등급 프리미엄 갈비세트1호'
+  category: '199'
+  code: 04-05
+  brand: 논산축협
+  price: 121900.0
+  maker: 논산축협
+  description: 찜갈비 2.4kg
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 129000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 04-05
+  catalog_id: 1
+  page_id: 4
+  created_at: 2012-10-25 08:51:48.813834000 Z
+  updated_at: 2012-10-25 10:37:47.790780000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/32.pdf
+:preview: 'true'

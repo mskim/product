@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 12
+  name: ! '[경기광주축협]자연채 갈비혼합세트알뜰2호'
+  category: '199'
+  code: 03-02
+  brand: 경기광주축협
+  price: 101200.0
+  maker: 경기광주축협
+  description: 찜갈비 800g, 국거리 600g, 불고기 600g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 110000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 03-02
+  catalog_id: 1
+  page_id: 2
+  created_at: 2012-10-25 08:51:48.524726000 Z
+  updated_at: 2012-10-25 10:37:47.711421000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/12.pdf
+:preview: 'true'

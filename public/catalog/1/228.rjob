@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 228
+  name: 수예당 행복세트
+  category: '259'
+  code: 17-07-01
+  brand: 수예당화과자
+  price: 52300.0
+  maker: 수예당화과자
+  description: 총 30입(화과자, 만주, 양갱)
+  country_of_origin: 한국외
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 55000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 17-07-01
+  catalog_id: 1
+  page_id: 242
+  created_at: 2012-10-25 08:51:51.919224000 Z
+  updated_at: 2012-10-25 10:37:49.500092000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/228.pdf
+:preview: 'true'

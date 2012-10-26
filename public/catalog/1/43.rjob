@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 43
+  name: 호주산 LA갈비
+  category: '200'
+  code: 05-06
+  brand: ㈜한울
+  price: 71200.0
+  maker: ㈜한울
+  description: 갈비 2kg, 찜갈비 1kg
+  country_of_origin: 호주
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 80000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 05-06
+  catalog_id: 1
+  page_id: 31
+  created_at: 2012-10-25 08:51:48.968336000 Z
+  updated_at: 2012-10-25 10:37:47.947027000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/43.pdf
+:preview: 'true'

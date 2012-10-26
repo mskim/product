@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 255
+  name: ! '[세사리빙]메이플 러그'
+  category: '276'
+  code: 20-09
+  brand: 웰크론
+  price: 33400.0
+  maker: 웰크론
+  description: ! '사이즈: 140×200cm 카페트'
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 36000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 20-09
+  catalog_id: 1
+  page_id: 481
+  created_at: 2012-10-25 08:51:52.391562000 Z
+  updated_at: 2012-10-25 10:37:50.440884000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/255.pdf
+:preview: 'true'

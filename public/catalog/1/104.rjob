@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 104
+  name: ! '[통영愛명작]지함세트No8'
+  category: '207'
+  code: 09-03
+  brand: 통영사람들
+  price: 34500.0
+  maker: 통영사람들
+  description: 소멸치 200g×2, 중멸치 200g×2
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 38000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 09-03
+  catalog_id: 1
+  page_id: 64
+  created_at: 2012-10-25 08:51:49.884258000 Z
+  updated_at: 2012-10-25 10:37:48.227500000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/104.pdf
+:preview: 'true'

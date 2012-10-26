@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 25
+  name: ! '[名品횡성한우]특품 찜갈비세트1호'
+  category: '199'
+  code: 04-03
+  brand: ㈜명품횡성청정한우
+  price: 281200.0
+  maker: ㈜명품횡성청정한우
+  description: 찜갈비 700g×5
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 320000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 04-03
+  catalog_id: 1
+  page_id: 3
+  created_at: 2012-10-25 08:51:48.699181000 Z
+  updated_at: 2012-10-25 10:37:47.762954000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/25.pdf
+:preview: 'true'

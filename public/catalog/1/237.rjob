@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 237
+  name: 뮬렉스 스마트 프라이어
+  category: '284'
+  code: 18-08
+  brand: 뮬렉스
+  price: 244500.0
+  maker: 뮬렉스
+  description: 본체, 칸막이, 바스켓 받침대, 미끄럼방지 실리콘 外
+  country_of_origin: 중국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 280000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 18-08
+  catalog_id: 1
+  page_id: 361
+  created_at: 2012-10-25 08:51:52.123726000 Z
+  updated_at: 2012-10-25 10:37:50.021261000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/237.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 56
+  name: 영광법성포 녹차굴비2호
+  category: '207'
+  code: 06-06-01
+  brand: ㈜쌍용굴비
+  price: 50000.0
+  maker: ㈜쌍용굴비
+  description: 40미
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 54000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 06-06-01
+  catalog_id: 1
+  page_id: 62
+  created_at: 2012-10-25 08:51:49.163971000 Z
+  updated_at: 2012-10-25 10:37:48.124344000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/56.pdf
+:preview: 'true'

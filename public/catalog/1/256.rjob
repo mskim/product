@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 256
+  name: ! '[락앤락]리빙박스'
+  category: '305'
+  code: 21-01
+  brand: (주)락앤락
+  price: 57600.0
+  maker: (주)락앤락
+  description: ! '사이즈: 55L×4'
+  country_of_origin: 중국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 62000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 21-01
+  catalog_id: 1
+  page_id: 511
+  created_at: 2012-10-25 08:51:52.435805000 Z
+  updated_at: 2012-10-25 10:37:50.610637000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/256.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 74
+  name: 제주 간고등어살
+  category: '205'
+  code: 07-07
+  brand: 제주올레수산
+  price: 53400.0
+  maker: 제주올레수산
+  description: 3kg(14~16팩)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 55000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 07-07
+  catalog_id: 1
+  page_id: 92
+  created_at: 2012-10-25 08:51:49.446794000 Z
+  updated_at: 2012-10-25 10:37:48.408146000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/74.pdf
+:preview: 'true'

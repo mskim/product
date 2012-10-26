@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 110
+  name: ! '[미래건해]한아름세트'
+  category: '207'
+  code: 09-05
+  brand: 미래건해㈜
+  price: 57800.0
+  maker: 미래건해㈜
+  description: 세멸치 170g, 자멸치 160g, 중멸치 140g, 대멸치 140g, 죽방멸치 140g, 새우 120g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 65000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 09-05
+  catalog_id: 1
+  page_id: 64
+  created_at: 2012-10-25 08:51:50.007251000 Z
+  updated_at: 2012-10-25 10:37:48.248410000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/110.pdf
+:preview: 'true'

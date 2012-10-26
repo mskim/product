@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 45
+  name: ! '[영광해풍]오가굴비2호'
+  category: '207'
+  code: 06-01-01
+  brand: 영광수산영어영농조합법인
+  price: 76500.0
+  maker: 영광수산영어영농조합법인
+  description: 22cm이상×10미
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 83000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 06-01-01
+  catalog_id: 1
+  page_id: 61
+  created_at: 2012-10-25 08:51:48.995872000 Z
+  updated_at: 2012-10-25 10:37:48.080593000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/45.pdf
+:preview: 'true'

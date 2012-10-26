@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 38
+  name: ! '[남해친환경한우]특선 혼합세트1호'
+  category: '199'
+  code: 05-02
+  brand: ㈜우리축산
+  price: 111200.0
+  maker: ㈜우리축산
+  description: 국거리 700g, 불고기 700g, 산적 700g, 장조림 700g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 120000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 05-02
+  catalog_id: 1
+  page_id: 5
+  created_at: 2012-10-25 08:51:48.898618000 Z
+  updated_at: 2012-10-25 10:37:47.815656000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/38.pdf
+:preview: 'true'

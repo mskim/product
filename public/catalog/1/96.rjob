@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 96
+  name: ! '[바다향]팔각세트명품'
+  category: '207'
+  code: 08-07-01
+  brand: ㈜해향유통
+  price: 66700.0
+  maker: ㈜해향유통
+  description: 볶음용 300g, 볶음조림용 250g, 조림용 250g, 국물용 230g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 70000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 08-07-01
+  catalog_id: 1
+  page_id: 63
+  created_at: 2012-10-25 08:51:49.778529000 Z
+  updated_at: 2012-10-25 10:37:48.194997000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/96.pdf
+:preview: 'true'

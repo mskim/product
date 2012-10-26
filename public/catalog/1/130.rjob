@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 130
+  name: 명품 사과·배 혼합세트
+  category: '175'
+  code: 11-01
+  brand: 예손
+  price: 55600.0
+  maker: 예손
+  description: 6kg 내외(홍로사과 4과, 신고배 8과)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 60000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 11-01
+  catalog_id: 1
+  page_id: 122
+  created_at: 2012-10-25 08:51:50.283340000 Z
+  updated_at: 2012-10-25 10:37:48.629846000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/130.pdf
+:preview: 'true'

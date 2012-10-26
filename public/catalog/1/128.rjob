@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 128
+  name: ! '[과일명과]머스크메론1호'
+  category: '175'
+  code: 10-07
+  brand: 일조 F&V
+  price: 54500.0
+  maker: 일조 F&V
+  description: 5kg(3과)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 58000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 10-07
+  catalog_id: 1
+  page_id: 122
+  created_at: 2012-10-25 08:51:50.254882000 Z
+  updated_at: 2012-10-25 10:37:48.618339000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/128.pdf
+:preview: 'true'

@@ -1,0 +1,27 @@
+---
+:action: variable_printing
+:variables:
+  id: 115
+  name: ! '[아미수]어머니의손맛 김2호'
+  category: '207'
+  code: 09-08-01
+  brand: ㈜정가네푸드
+  price: 36700.0
+  maker: ㈜정가네푸드
+  description: 식탁 20g×10, 돌김 20g, 간장찍어먹는김 20g, 재래 35g×2, 도시락 5g×36, 볶은돌김 70g×2, 미역
+    50g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 38000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 09-08-01
+  catalog_id: 1
+  page_id: 65
+  created_at: 2012-10-25 08:51:50.075141000 Z
+  updated_at: 2012-10-25 10:37:48.269291000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/115.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 169
+  name: ! '[농협]한삼인 진홍삼고'
+  category: '359'
+  code: 13-01-01
+  brand: ㈜NH한삼인
+  price: 88900.0
+  maker: ㈜NH한삼인
+  description: 250g×2병
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 110000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 13-01-01
+  catalog_id: 1
+  page_id: 151
+  created_at: 2012-10-25 08:51:50.905003000 Z
+  updated_at: 2012-10-25 10:37:48.903603000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/169.pdf
+:preview: 'true'

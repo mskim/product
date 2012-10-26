@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 133
+  name: 프리미엄 친환경사과
+  category: '175'
+  code: 11-03-01
+  brand: 항도청과
+  price: 36700.0
+  maker: 항도청과
+  description: 4.8kg(15과)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 39800.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 11-03-01
+  catalog_id: 1
+  page_id: 122
+  created_at: 2012-10-25 08:51:50.325803000 Z
+  updated_at: 2012-10-25 10:37:48.642277000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/133.pdf
+:preview: 'true'

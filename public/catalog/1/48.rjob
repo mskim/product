@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 48
+  name: 명품굴비 딱돔1호
+  category: '207'
+  code: 06-02
+  brand: 영광황토굴비(영)
+  price: 197800.0
+  maker: 영광황토굴비(영)
+  description: 10미(1,550g이상, 24cm)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 210000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 06-02
+  catalog_id: 1
+  page_id: 61
+  created_at: 2012-10-25 08:51:49.039301000 Z
+  updated_at: 2012-10-25 10:37:48.090587000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/48.pdf
+:preview: 'true'

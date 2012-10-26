@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 28
+  name: ! '[名品횡성한우]명품 정육세트1호'
+  category: '199'
+  code: 04-04
+  brand: ㈜명품횡성청정한우
+  price: 188900.0
+  maker: ㈜명품횡성청정한우
+  description: 불고기 700g×2, 국거리 700g×2, 장조림 700g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 200000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 04-04
+  catalog_id: 1
+  page_id: 4
+  created_at: 2012-10-25 08:51:48.737674000 Z
+  updated_at: 2012-10-25 10:37:47.775342000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/28.pdf
+:preview: 'true'

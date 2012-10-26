@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 13
+  name: ! '[경기광주축협]자연채 로스구이세트1호'
+  category: '199'
+  code: 03-03
+  brand: 경기광주축협
+  price: 175600.0
+  maker: 경기광주축협
+  description: 등심 600g×3
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 190000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 03-03
+  catalog_id: 1
+  page_id: 2
+  created_at: 2012-10-25 08:51:48.538738000 Z
+  updated_at: 2012-10-25 10:37:47.715159000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/13.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 37
+  name: ! '[남해친환경한우]갈비세트2호'
+  category: '199'
+  code: 05-01-01
+  brand: ㈜우리축산
+  price: 175600.0
+  maker: ㈜우리축산
+  description: 찜갈비 800g×3, 한우볶음고추장
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 190000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 05-01-01
+  catalog_id: 1
+  page_id: 5
+  created_at: 2012-10-25 08:51:48.884498000 Z
+  updated_at: 2012-10-25 10:37:47.811904000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/37.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 90
+  name: 코다리세트
+  category: '205'
+  code: 08-05
+  brand: 그린수산
+  price: 19500.0
+  maker: 그린수산
+  description: 350g 이상×5
+  country_of_origin: 러시아
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 21000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 08-05
+  catalog_id: 1
+  page_id: 93
+  created_at: 2012-10-25 08:51:49.697299000 Z
+  updated_at: 2012-10-25 10:37:48.475586000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/90.pdf
+:preview: 'true'

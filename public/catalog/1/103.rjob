@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 103
+  name: ! '[통영愛명작]스페셜세트'
+  category: '207'
+  code: 09-02
+  brand: 통영사람들
+  price: 53400.0
+  maker: 통영사람들
+  description: 대멸치 330g, 중멸치 330g, 세멸치 340g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 57000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 09-02
+  catalog_id: 1
+  page_id: 64
+  created_at: 2012-10-25 08:51:49.870748000 Z
+  updated_at: 2012-10-25 10:37:48.223618000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/103.pdf
+:preview: 'true'

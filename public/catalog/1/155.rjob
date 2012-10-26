@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 155
+  name: ! '[정과원]산청곶감'
+  category: '175'
+  code: 12-02
+  brand: 정과원
+  price: 135600.0
+  maker: 정과원
+  description: 36과(45~50g)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 143000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 12-02
+  catalog_id: 1
+  page_id: 125
+  created_at: 2012-10-25 08:51:50.675431000 Z
+  updated_at: 2012-10-25 10:37:48.734906000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/155.pdf
+:preview: 'true'

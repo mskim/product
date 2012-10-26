@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 251
+  name: ! '[테팔]스마트터치 홈세트'
+  category: '297'
+  code: 20-05
+  brand: 그룹세브
+  price: 105600.0
+  maker: 그룹세브
+  description: 28cm 후라이팬, 28cm 궁중팬, 26cm 그릴팬, 유리뚜껑, 실리콘받침
+  country_of_origin: 프랑스
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 116000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 20-05
+  catalog_id: 1
+  page_id: 451
+  created_at: 2012-10-25 08:51:52.333074000 Z
+  updated_at: 2012-10-25 10:37:50.339054000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/251.pdf
+:preview: 'true'

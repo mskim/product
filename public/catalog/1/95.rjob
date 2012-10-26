@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 95
+  name: ! '[바다향]팔각세트참멸치'
+  category: '207'
+  code: 08-07
+  brand: ㈜해향유통
+  price: 92300.0
+  maker: ㈜해향유통
+  description: 참멸치 800g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 97600.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 08-07
+  catalog_id: 1
+  page_id: 63
+  created_at: 2012-10-25 08:51:49.765762000 Z
+  updated_at: 2012-10-25 10:37:48.191554000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/95.pdf
+:preview: 'true'

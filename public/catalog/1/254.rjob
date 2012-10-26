@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 254
+  name: ! '[보이로]독일 전기요UB33'
+  category: '276'
+  code: 20-08
+  brand: beurer
+  price: 94500.0
+  maker: beurer
+  description: ! '사이즈: 800×1500×10mm'
+  country_of_origin: 헝가리
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 105000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 20-08
+  catalog_id: 1
+  page_id: 481
+  created_at: 2012-10-25 08:51:52.376834000 Z
+  updated_at: 2012-10-25 10:37:50.437580000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/254.pdf
+:preview: 'true'

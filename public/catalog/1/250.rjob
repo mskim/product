@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 250
+  name: ! '[테팔]심플리 후라이팬(3종)'
+  category: '297'
+  code: 20-04
+  brand: 세브코리아
+  price: 60000.0
+  maker: 세브코리아
+  description: 24', 28' 후라이팬, 28' 유리뚜껑
+  country_of_origin: 프랑스
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 100000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 20-04
+  catalog_id: 1
+  page_id: 451
+  created_at: 2012-10-25 08:51:52.317296000 Z
+  updated_at: 2012-10-25 10:37:50.335378000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/250.pdf
+:preview: 'true'

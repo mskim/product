@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 252
+  name: ! '[휘슬러]글라스라인 냄비(4종)'
+  category: '297'
+  code: 20-06
+  brand: 휘슬러
+  price: 333400.0
+  maker: 휘슬러
+  description: 16' 높은양수, 20' 낮은양수, 20' 높은 양수, 24' 양수
+  country_of_origin: 독일
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 360000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 20-06
+  catalog_id: 1
+  page_id: 451
+  created_at: 2012-10-25 08:51:52.348372000 Z
+  updated_at: 2012-10-25 10:37:50.342857000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/252.pdf
+:preview: 'true'

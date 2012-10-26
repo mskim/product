@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 166
+  name: ! '[상주골드곶감]반건시2호'
+  category: '175'
+  code: 12-08
+  brand: 상주골드곶감
+  price: 56700.0
+  maker: 상주골드곶감
+  description: 2.4kg(40과)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 61000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 12-08
+  catalog_id: 1
+  page_id: 126
+  created_at: 2012-10-25 08:51:50.863242000 Z
+  updated_at: 2012-10-25 10:37:48.776813000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/166.pdf
+:preview: 'true'

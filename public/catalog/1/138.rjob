@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 138
+  name: ! '[낭구한그루]배세트3호'
+  category: '175'
+  code: 11-05-02
+  brand: 참들
+  price: 55600.0
+  maker: 참들
+  description: 7kg(11과)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 60000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 11-05-02
+  catalog_id: 1
+  page_id: 123
+  created_at: 2012-10-25 08:51:50.429273000 Z
+  updated_at: 2012-10-25 10:37:48.663801000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/138.pdf
+:preview: 'true'

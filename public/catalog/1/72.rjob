@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 72
+  name: ! '[하루방]혼합세트'
+  category: '205'
+  code: 07-05
+  brand: ㈜청룡수산
+  price: 96700.0
+  maker: ㈜청룡수산
+  description: 갈치 400g×2, 옥돔 200g×3
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 104000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 07-05
+  catalog_id: 1
+  page_id: 91
+  created_at: 2012-10-25 08:51:49.418367000 Z
+  updated_at: 2012-10-25 10:37:48.395101000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/72.pdf
+:preview: 'true'

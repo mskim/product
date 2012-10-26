@@ -1,0 +1,27 @@
+---
+:action: variable_printing
+:variables:
+  id: 236
+  name: ! '[NUC]갤럭시 프리미엄 원액기NUC-1245JT'
+  category: '282'
+  code: 18-07
+  brand: ! 'NUC전자 '
+  price: 288900.0
+  maker: ! 'NUC전자 '
+  description: 본체, 원액추출용기, 회전와이퍼, 착즙망, 원액스크류, 용기뚜껑, 호퍼, 누름봉, 원액컵, 섬유질용기, 회전솔, 청소솔,
+    사용설명서, 퀵가이드, 레시피북, 두부제조세트(두부틀, 누름판, 거름포)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 319000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 18-07
+  catalog_id: 1
+  page_id: 301
+  created_at: 2012-10-25 08:51:52.086054000 Z
+  updated_at: 2012-10-25 10:37:49.768500000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/236.pdf
+:preview: 'true'

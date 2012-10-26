@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 82
+  name: ! '[50년간잽이 이동삼]순살 안동간고등어4호'
+  category: '205'
+  code: 08-02-02
+  brand: ㈜안동간고등어
+  price: 71500.0
+  maker: ㈜안동간고등어
+  description: 150g×20
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 75500.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 08-02-02
+  catalog_id: 1
+  page_id: 93
+  created_at: 2012-10-25 08:51:49.558352000 Z
+  updated_at: 2012-10-25 10:37:48.447776000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/82.pdf
+:preview: 'true'

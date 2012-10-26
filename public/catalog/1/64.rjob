@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 64
+  name: 강동오 제주大 고등어살1호
+  category: '205'
+  code: 07-01
+  brand: 이제주섬(영)
+  price: 50000.0
+  maker: 이제주섬(영)
+  description: 1.5kg(7팩)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 65000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 07-01
+  catalog_id: 1
+  page_id: 91
+  created_at: 2012-10-25 08:51:49.304057000 Z
+  updated_at: 2012-10-25 10:37:48.358431000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/64.pdf
+:preview: 'true'

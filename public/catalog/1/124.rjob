@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 124
+  name: 껍질채먹는 의성사과2호
+  category: '175'
+  code: 10-04-01
+  brand: ㈜경동애플
+  price: 38900.0
+  maker: ㈜경동애플
+  description: 21~23과
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 42000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 10-04-01
+  catalog_id: 1
+  page_id: 121
+  created_at: 2012-10-25 08:51:50.200021000 Z
+  updated_at: 2012-10-25 10:37:48.598240000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/124.pdf
+:preview: 'true'

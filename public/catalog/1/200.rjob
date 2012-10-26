@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 200
+  name: 장흥표고세트
+  category: '183'
+  code: 15-06-02
+  brand: 청계영농조합
+  price: 90000.0
+  maker: 청계영농조합
+  description: 백화고 180g, 흑화고 160g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 100000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 15-06-02
+  catalog_id: 1
+  page_id: 211
+  created_at: 2012-10-25 08:51:51.411205000 Z
+  updated_at: 2012-10-25 10:37:49.253770000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/200.pdf
+:preview: 'true'

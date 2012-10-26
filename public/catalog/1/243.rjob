@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 243
+  name: ! '[락앤락]밀폐용기 집들이세트(27P)'
+  category: '299'
+  code: 19-06
+  brand: (주)락앤락
+  price: 27800.0
+  maker: (주)락앤락
+  description: 직사각(470ml×2, 1L×2, 1L(칸칸), 1.9L, 2.3L, 5.5L), 원형(300ml×2, 890ml×2)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 36000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 19-06
+  catalog_id: 1
+  page_id: 421
+  created_at: 2012-10-25 08:51:52.214684000 Z
+  updated_at: 2012-10-25 10:37:50.223375000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/243.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 174
+  name: ! '[종근당건강]장뇌산삼'
+  category: '359'
+  code: 13-06
+  brand: ㈜종근당건강
+  price: 24500.0
+  maker: ㈜종근당건강
+  description: 70ml×30포
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 29000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 13-06
+  catalog_id: 1
+  page_id: 151
+  created_at: 2012-10-25 08:51:50.992441000 Z
+  updated_at: 2012-10-25 10:37:48.928870000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/174.pdf
+:preview: 'true'

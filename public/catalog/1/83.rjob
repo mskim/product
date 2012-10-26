@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 83
+  name: ! '[50년간잽이 이동삼]프리미엄죽염 안동간고등어1호'
+  category: '205'
+  code: 08-03
+  brand: ㈜안동간고등어
+  price: 17400.0
+  maker: ㈜안동간고등어
+  description: 140g×5
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 18500.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 08-03
+  catalog_id: 1
+  page_id: 93
+  created_at: 2012-10-25 08:51:49.572591000 Z
+  updated_at: 2012-10-25 10:37:48.451234000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/83.pdf
+:preview: 'true'

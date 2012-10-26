@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 263
+  name: ! '[먼지따로]New 블루청소기VC-TU622'
+  category: '288'
+  code: 21-06
+  brand: 삼성전자
+  price: 97800.0
+  maker: 삼성전자
+  description: ! '색상: 펄블루'
+  country_of_origin: 베트남
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 108000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 21-06
+  catalog_id: 1
+  page_id: 571
+  created_at: 2012-10-25 08:51:52.533818000 Z
+  updated_at: 2012-10-25 10:37:50.798073000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/263.pdf
+:preview: 'true'

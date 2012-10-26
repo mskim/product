@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @item.name %>
+</p>
+
+<p>
+  <b>Category:</b>
+  <%= @item.category %>
+</p>
+
+<p>
+  <b>Code:</b>
+  <%= @item.code %>
+</p>
+
+<div style="background-color:darkGray; font-size:30;  text-align:center; padding-top:30px; padding-bottom:30px;">
+
+
+	<p><img border="1" width="350" height="500" float="right" src="<%= @preview_page %>"></img></p>
+
+
+</div>
+
+
+
+<%= link_to 'Edit', edit_item_path(@item) %> |
+<%= link_to 'Back', items_path %>

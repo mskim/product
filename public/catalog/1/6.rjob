@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 6
+  name: ! '[강강술래]한우불고기세트1호'
+  category: '199'
+  code: 02-04
+  brand: ㈜강강술래
+  price: 47300.0
+  maker: ㈜강강술래
+  description: 양념불고기 900g×2
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 52000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 02-04
+  catalog_id: 1
+  page_id: 1
+  created_at: 2012-10-25 08:51:48.442540000 Z
+  updated_at: 2012-10-25 10:37:47.684159000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/6.pdf
+:preview: 'true'

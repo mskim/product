@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 144
+  name: ! '[낭구한그루]사과세트5호'
+  category: '175'
+  code: 11-06-03
+  brand: 참들
+  price: 54500.0
+  maker: 참들
+  description: 4.5kg(14과)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 59000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 11-06-03
+  catalog_id: 1
+  page_id: 123
+  created_at: 2012-10-25 08:51:50.514757000 Z
+  updated_at: 2012-10-25 10:37:48.686485000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/144.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 156
+  name: ! '[영동곶감]정성가득1호'
+  category: '175'
+  code: 12-03
+  brand: 영동특산영농조합
+  price: 70000.0
+  maker: 영동특산영농조합
+  description: 2kg(40과)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 75000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 12-03
+  catalog_id: 1
+  page_id: 125
+  created_at: 2012-10-25 08:51:50.692005000 Z
+  updated_at: 2012-10-25 10:37:48.738368000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/156.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 229
+  name: 수예당 특선종합세트
+  category: '259'
+  code: 17-08
+  brand: 수예당화과자
+  price: 68900.0
+  maker: 수예당화과자
+  description: 2단 총 40입(화과자, 만주, 양갱, 플레르쁘띠, 모짜르트케잌)
+  country_of_origin: 한국외
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 73000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 17-08
+  catalog_id: 1
+  page_id: 242
+  created_at: 2012-10-25 08:51:51.933312000 Z
+  updated_at: 2012-10-25 10:37:49.504071000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/229.pdf
+:preview: 'true'

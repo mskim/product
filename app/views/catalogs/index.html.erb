@@ -1,0 +1,27 @@
+<h1>Listing catalogs</h1>
+
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Publication date</th>
+    <th>Description</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @catalogs.each do |catalog| %>
+  <tr>
+    <td><%= catalog.title %></td>
+    <td><%= catalog.publication_date %></td>
+    <td><%= catalog.description %></td>
+    <td><%= link_to 'Show', catalog %></td>
+    <td><%= link_to 'Edit', edit_catalog_path(catalog) %></td>
+    <td><%= link_to 'Destroy', catalog, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Catalog', new_catalog_path %>

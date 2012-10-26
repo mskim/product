@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 231
+  name: 독일 [기펠] MEGA 그릴MEGA
+  category: '283'
+  code: 18-02
+  brand: 기펠
+  price: 71200.0
+  maker: 기펠
+  description: 본체, 기름받이컵, 상품설명서
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 78000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 18-02
+  catalog_id: 1
+  page_id: 271
+  created_at: 2012-10-25 08:51:51.990205000 Z
+  updated_at: 2012-10-25 10:37:49.605960000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/231.pdf
+:preview: 'true'

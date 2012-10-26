@@ -1,0 +1,38 @@
+Use this README file to introduce your application and point to useful places in the API for learning more.
+Run "rake doc:app" to generate API documentation for your models, controllers, helpers, and libraries.
+
+Catalog
+	title
+	description
+
+Category
+	code
+	name
+	catalog_id
+	
+Page
+	page_number
+	catalog_id
+	category_id
+	
+Items
+	name
+	category
+	code
+	brand
+	price:float
+	maker
+	description:text
+	country_of_origin
+	delivery_method
+	
+	delivery_fee
+	inventory:integer
+	market_price:float
+	category2
+	condition
+	image_url
+	
+	catalog_id
+	page_id
+	category_id

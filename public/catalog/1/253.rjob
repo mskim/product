@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 253
+  name: ! '[렉스론]듀폰타이벡 온열카페트(퀸)RL-1520'
+  category: '276'
+  code: 20-07
+  brand: 세일
+  price: 133400.0
+  maker: 세일
+  description: 1500×2000(±5)mm 본체, 온도조절기, 상품설명서
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 150000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 20-07
+  catalog_id: 1
+  page_id: 481
+  created_at: 2012-10-25 08:51:52.363471000 Z
+  updated_at: 2012-10-25 10:37:50.433993000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/253.pdf
+:preview: 'true'

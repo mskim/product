@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 49
+  name: 굴비애찬특선1호
+  category: '207'
+  code: 06-03
+  brand: ㈜바다수산
+  price: 67800.0
+  maker: ㈜바다수산
+  description: 21cm×10미
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 100000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 06-03
+  catalog_id: 1
+  page_id: 61
+  created_at: 2012-10-25 08:51:49.052997000 Z
+  updated_at: 2012-10-25 10:37:48.093952000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/49.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 98
+  name: ! '[바다향]한아름세트'
+  category: '207'
+  code: 08-08
+  brand: ㈜해향유통
+  price: 58900.0
+  maker: ㈜해향유통
+  description: 꽃새우 110g, 조림용 170g, 조림용(특) 160g, 조림용 140g, 국물용 140g×2
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 62000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 08-08
+  catalog_id: 1
+  page_id: 63
+  created_at: 2012-10-25 08:51:49.804094000 Z
+  updated_at: 2012-10-25 10:37:48.201709000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/98.pdf
+:preview: 'true'

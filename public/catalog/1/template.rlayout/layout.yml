@@ -1,0 +1,49 @@
+--- 
+:doc_info:
+  :title: title
+  :page_type: '@page_type'
+  :page_width: 500
+  :page_height: 700
+  :dobule_side: false
+  :starts_left: true
+:favorites_library:
+  :pages: []
+  :blocks: []
+  :graphics: []
+:pages:
+- :class: page
+  :frame: '{{20, 20}, {500, 700}}'
+  :graphics:
+  - :class: Rectangle
+    :frame: '{{20, 20}, {460, 319}}'
+    :image_record:
+      :klass: GImageRecord
+      :image_path: /Users/mskim/Development/rails32/product/public/catalog/1/images/{{image_url}}.jpg
+      :image_frame:
+      - 0.0
+      - 0.0
+      - 0.0
+      - 0.0
+  - :class: Text
+    :frame: '{{20, 361}, {460, 319}}'
+    :text_record:
+      :att_string_array:
+      - :text: "{{name}} \n"
+        :font: AppleSDGothicNeo-Bold
+        :size: 36.0
+      - :text: '{{category}}-{{code}}
+
+          {{description}} {{country_of_origin}}
+
+'
+        :font: Times-Roman
+        :size: 24.0
+      - :text: '{{price}}'
+        :font: Helvetica
+        :size: 36.0
+        :color: RGB=1.0,0.0,0.0,1.0
+      - :text: '
+
+'
+        :font: Times-Roman
+        :size: 24.0

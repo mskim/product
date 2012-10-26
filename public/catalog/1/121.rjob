@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 121
+  name: 특품 사과·배 혼합세트1호
+  category: '175'
+  code: 10-03
+  brand: 삼남영농조합
+  price: 43400.0
+  maker: 삼남영농조합
+  description: 5kg(사과 8과, 배 4과)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 45000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 10-03
+  catalog_id: 1
+  page_id: 121
+  created_at: 2012-10-25 08:51:50.159051000 Z
+  updated_at: 2012-10-25 10:37:48.587291000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/121.pdf
+:preview: 'true'

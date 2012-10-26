@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 146
+  name: ! '[아침애향]안동사과세트1호'
+  category: '175'
+  code: 11-08
+  brand: 알토란과일장터
+  price: 55600.0
+  maker: 알토란과일장터
+  description: 5kg(사과 13~15과)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 60000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 11-08
+  catalog_id: 1
+  page_id: 124
+  created_at: 2012-10-25 08:51:50.545545000 Z
+  updated_at: 2012-10-25 10:37:48.697282000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/146.pdf
+:preview: 'true'

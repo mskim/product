@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 102
+  name: ! '[청정해]바다선물세트스페셜골드5호'
+  category: '207'
+  code: 09-01-01
+  brand: 청정해식품
+  price: 26200.0
+  maker: 청정해식품
+  description: 중멸치 210g×2, 다시마 160g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 31000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 09-01-01
+  catalog_id: 1
+  page_id: 64
+  created_at: 2012-10-25 08:51:49.857817000 Z
+  updated_at: 2012-10-25 10:37:48.219662000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/102.pdf
+:preview: 'true'

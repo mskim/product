@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 235
+  name: ! '[쿠첸]전기압력밥솥(10인용)CPP-Q10LC21F'
+  category: '281'
+  code: 18-06
+  brand: ㈜리홈론
+  price: 144500.0
+  maker: ㈜리홈론
+  description: 
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 170000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 18-06
+  catalog_id: 1
+  page_id: 331
+  created_at: 2012-10-25 08:51:52.072801000 Z
+  updated_at: 2012-10-25 10:37:49.931839000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/235.pdf
+:preview: 'true'

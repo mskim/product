@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 40
+  name: ! '[한림원]소갈비 정육세트3호'
+  category: '199'
+  code: 05-03
+  brand: 한림육가공㈜
+  price: 79300.0
+  maker: 한림육가공㈜
+  description: 찜갈비 1.6kg, 사태 800g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 90000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 05-03
+  catalog_id: 1
+  page_id: 5
+  created_at: 2012-10-25 08:51:48.927403000 Z
+  updated_at: 2012-10-25 10:37:47.821581000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/40.pdf
+:preview: 'true'

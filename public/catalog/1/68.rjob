@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 68
+  name: 제주명품 秀세트특선
+  category: '205'
+  code: 07-02-01
+  brand: 이제주섬(영)
+  price: 80000.0
+  maker: 이제주섬(영)
+  description: 홍옥돔 550g×3, 은갈치 350g, 고등어살 800g×4
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 89000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 07-02-01
+  catalog_id: 1
+  page_id: 91
+  created_at: 2012-10-25 08:51:49.362812000 Z
+  updated_at: 2012-10-25 10:37:48.375494000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/68.pdf
+:preview: 'true'

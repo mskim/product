@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 41
+  name: ! '[한림원]소갈비 정육세트4호'
+  category: '199'
+  code: 05-04
+  brand: 한림육가공㈜
+  price: 88200.0
+  maker: 한림육가공㈜
+  description: 불고기 1.6kg, 사태 800g, 양지 800g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 100000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 05-04
+  catalog_id: 1
+  page_id: 5
+  created_at: 2012-10-25 08:51:48.941951000 Z
+  updated_at: 2012-10-25 10:37:47.824981000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/41.pdf
+:preview: 'true'

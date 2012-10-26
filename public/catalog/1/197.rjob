@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 197
+  name: 장뇌삼
+  category: '359'
+  code: 15-03
+  brand: 한국산양삼산
+  price: 215000.0
+  maker: 한국산양삼산
+  description: 장뇌삼 10뿌리
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 220000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 15-03
+  catalog_id: 1
+  page_id: 152
+  created_at: 2012-10-25 08:51:51.350229000 Z
+  updated_at: 2012-10-25 10:37:48.989827000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/197.pdf
+:preview: 'true'

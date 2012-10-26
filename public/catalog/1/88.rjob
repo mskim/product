@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 88
+  name: ! '[안동간고등어]풍산고을 어머니의손맛3호'
+  category: '205'
+  code: 08-04-02
+  brand: 태성유통
+  price: 27600.0
+  maker: 태성유통
+  description: 400g이상 7손(14미)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 32000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 08-04-02
+  catalog_id: 1
+  page_id: 93
+  created_at: 2012-10-25 08:51:49.667620000 Z
+  updated_at: 2012-10-25 10:37:48.468356000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/88.pdf
+:preview: 'true'

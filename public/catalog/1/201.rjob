@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 201
+  name: 장흥표고 혼합세트1호
+  category: '183'
+  code: 15-07
+  brand: 청계영농조합
+  price: 55600.0
+  maker: 청계영농조합
+  description: 흑화고 250g, 표고채 80g, 흑화고가루 100g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 60000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 15-07
+  catalog_id: 1
+  page_id: 211
+  created_at: 2012-10-25 08:51:51.444395000 Z
+  updated_at: 2012-10-25 10:37:49.257759000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/201.pdf
+:preview: 'true'

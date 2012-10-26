@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 261
+  name: ! '[마미로봇]뽀로 물걸레 로봇청소기K3'
+  category: '288'
+  code: 21-04
+  brand: ㈜마미로봇
+  price: 277800.0
+  maker: ㈜마미로봇
+  description: ! '색상: 와인, 오렌지, 실버, 화이트, 라임, 티타늄'
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 300000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 21-04
+  catalog_id: 1
+  page_id: 571
+  created_at: 2012-10-25 08:51:52.507444000 Z
+  updated_at: 2012-10-25 10:37:50.790321000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/261.pdf
+:preview: 'true'

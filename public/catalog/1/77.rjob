@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 77
+  name: ! '[50년간잽이 이동삼]안동간고등어1호'
+  category: '205'
+  code: 08-01
+  brand: ㈜안동간고등어
+  price: 22100.0
+  maker: ㈜안동간고등어
+  description: 330g×7손(14마리)
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 23500.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 08-01
+  catalog_id: 1
+  page_id: 92
+  created_at: 2012-10-25 08:51:49.487259000 Z
+  updated_at: 2012-10-25 10:37:48.421897000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/77.pdf
+:preview: 'true'

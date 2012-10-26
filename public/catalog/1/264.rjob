@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 264
+  name: 코오롱 코펠 경질세트(3~4인용)
+  category: '439'
+  code: 21-07
+  brand: ㈜코오롱 인더스트리
+  price: 54400.0
+  maker: ㈜코오롱 인더스트리
+  description: 코펠 2L, 뚜껑, 다용도 주전자 1.2L, 주전자 뚜껑, 주걱, 국자, 공기×3, 15후라이팬 0.8L
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 59000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 21-07
+  catalog_id: 1
+  page_id: 601
+  created_at: 2012-10-25 08:51:52.548635000 Z
+  updated_at: 2012-10-25 10:37:50.905979000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/264.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 54
+  name: 굴비애 실속세트특선
+  category: '207'
+  code: 06-05
+  brand: 영광황토굴비(영)
+  price: 61200.0
+  maker: 영광황토굴비(영)
+  description: 21cm×14미
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 68000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 06-05
+  catalog_id: 1
+  page_id: 62
+  created_at: 2012-10-25 08:51:49.135195000 Z
+  updated_at: 2012-10-25 10:37:48.117643000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/54.pdf
+:preview: 'true'

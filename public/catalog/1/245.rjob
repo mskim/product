@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 245
+  name: ! '[WMF] 프리미엄 냄비세트'
+  category: '297'
+  code: 19-08
+  brand: WMF
+  price: 68500.0
+  maker: WMF
+  description: 16cm 로우, 16cm 소스팬
+  country_of_origin: 중국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 74000.0
+  sub_category: '1'
+  condition: '100'
+  image_url: 19-08
+  catalog_id: 1
+  page_id: 451
+  created_at: 2012-10-25 08:51:52.242390000 Z
+  updated_at: 2012-10-25 10:37:50.317881000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/245.pdf
+:preview: 'true'

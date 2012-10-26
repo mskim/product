@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  category: MyString
+  code: MyString
+  brand: MyString
+  price: 1.5
+  maker: MyString
+  description: MyText
+  country_of_origin: MyString
+  delivery_method: MyString
+  delivery_fee: 1.5
+  inventory: 1
+  market_price: 1.5
+  sub_category: MyString
+  condition: MyString
+  image_url: MyString
+  catalog_id: 1
+  page_id: 1
+
+two:
+  name: MyString
+  category: MyString
+  code: MyString
+  brand: MyString
+  price: 1.5
+  maker: MyString
+  description: MyText
+  country_of_origin: MyString
+  delivery_method: MyString
+  delivery_fee: 1.5
+  inventory: 1
+  market_price: 1.5
+  sub_category: MyString
+  condition: MyString
+  image_url: MyString
+  catalog_id: 1
+  page_id: 1

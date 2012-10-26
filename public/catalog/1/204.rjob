@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 204
+  name: ! '[영진표고]혼합세트'
+  category: '183'
+  code: 15-09
+  brand: 영진표고
+  price: 45600.0
+  maker: 영진표고
+  description: 표고 160g, 표고채 80g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 50000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 15-09
+  catalog_id: 1
+  page_id: 212
+  created_at: 2012-10-25 08:51:51.485800000 Z
+  updated_at: 2012-10-25 10:37:49.316705000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/204.pdf
+:preview: 'true'

@@ -1,0 +1,26 @@
+---
+:action: variable_printing
+:variables:
+  id: 105
+  name: ! '[통영愛명작]지함세트No4'
+  category: '207'
+  code: 09-03-01
+  brand: 통영사람들
+  price: 68900.0
+  maker: 통영사람들
+  description: 대멸치 330g×2, 중멸치 330g, 소멸치 340g
+  country_of_origin: 한국
+  delivery_method: '101'
+  delivery_fee: 0.0
+  inventory: 999
+  market_price: 75000.0
+  sub_category: '2'
+  condition: '100'
+  image_url: 09-03-01
+  catalog_id: 1
+  page_id: 64
+  created_at: 2012-10-25 08:51:49.899963000 Z
+  updated_at: 2012-10-25 10:37:48.231939000 Z
+:template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
+:output_path: /Users/mskim/Development/rails32/product/public/catalog/1/105.pdf
+:preview: 'true'
