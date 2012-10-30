@@ -20,13 +20,19 @@
 <% 3.times do |row| %>
 
   <tr>
-	<td><p><img border="1" width="350" height="400" float="right" src="<%= @page_items[row*3 + 0].preview_page %>"></img></p></td>
-	<td><p><img border="1" width="350" height="400" float="right" src="<%= @page_items[row*3 + 1].preview_page %>"></img></p></td>
-	<td><p><img border="1" width="350" height="400" float="right" src="<%= @page_items[row*3 + 2].preview_page %>"></img></p></td>
+	<% if @page_items[row*3 + 0] %>
+	<td><a href="/items/<%= @page_items[row*3 + 0].id %>/"><p><img border="1" width="350" height="400" float="right" src="<%= @page_items[row*3 + 0].preview_page %>"></img></p></a></td>
+	<%end %>
+	<% if @page_items[row*3 + 1] %>
+	<td><a href="/items/<%= @page_items[row*3 + 1].id %>/"><p><img border="1" width="350" height="400" float="right" src="<%= @page_items[row*3 + 1].preview_page %>"></img></p></a></td>
+	<%end %>
+	<% if @page_items[row*3 + 2] %>
+	<td><a href="/items/<%= @page_items[row*3 + 2].id %>/"><p><img border="1" width="350" height="400" float="right" src="<%= @page_items[row*3 + 2].preview_page %>"></img></p></a></td>
+	<%end %>
   </tr>
 <% end %>
 </table>
-
+<a href="/items/1/">Rails API</a>
 </div>
 
 

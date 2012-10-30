@@ -3,6 +3,7 @@ class ItemsController < ApplicationController
   # GET /items.json
   def index
     # @items = Item.all
+    puts "params:#{params}"
     @items=Item.order("category","code").page(params[:page]).per(20)
 
     respond_to do |format|

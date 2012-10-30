@@ -46,14 +46,19 @@ class Item < ActiveRecord::Base
   end
   
   def generate_job
-    job_hash={}
-    job_hash[:action]="variable_printing"
-    job_hash[:variables]=attributes
+    job_hash={
+      :action     =>"variable_printing",
+      :variables  =>attributes,
+      :template   => template,
+      :output_path => pdf_path, 
+      :preview     => "true"
+    }
+    
+    # Todo this could be more flexible 
     url=File.basename(job_hash[:variables]["image_url"], ".jpg")
     job_hash[:variables]["image_url"]=url
-    job_hash[:template] = template
-    job_hash[:output_path] = pdf_path 
-    job_hash[:preview] = "true";
+    
+    
     yaml=job_hash.to_yaml
     File.open(job_file_path,'w') {|f| f.write yaml}
   end

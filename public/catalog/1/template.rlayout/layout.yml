@@ -15,17 +15,19 @@
   :frame: '{{20, 20}, {500, 700}}'
   :graphics:
   - :class: Rectangle
-    :frame: '{{20, 20}, {460, 319}}'
+    :frame: '{{20, 20}, {460, 438}}'
     :image_record:
       :klass: GImageRecord
       :image_path: /Users/mskim/Development/rails32/product/public/catalog/1/images/{{image_url}}.jpg
       :image_frame:
       - 0.0
       - 0.0
+      - 1.0
       - 0.0
-      - 0.0
+    :auto_layout:
+      :expand: :width
   - :class: Text
-    :frame: '{{20, 361}, {460, 319}}'
+    :frame: '{{20, 480}, {460, 202}}'
     :text_record:
       :att_string_array:
       - :text: "{{name}} \n"

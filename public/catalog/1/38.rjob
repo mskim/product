@@ -20,7 +20,7 @@
   catalog_id: 1
   page_id: 5
   created_at: 2012-10-25 08:51:48.898618000 Z
-  updated_at: 2012-10-25 10:37:47.815656000 Z
+  updated_at: 2012-10-30 01:35:17.295601000 Z
 :template: /Users/mskim/Development/rails32/product/public/catalog/1/template.rlayout
 :output_path: /Users/mskim/Development/rails32/product/public/catalog/1/38.pdf
 :preview: 'true'
