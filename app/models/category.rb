@@ -2,6 +2,7 @@ class Category < ActiveRecord::Base
   attr_accessible :catalog_id, :code, :display_order, :name
   has_many :pages
   
+
   def category_items
     @category_items ||= Item.where(:category == code)
   end
@@ -32,34 +33,43 @@ class Category < ActiveRecord::Base
     9
   end
   
-  def collect_pdf_files
-    pdf_files=[]
+  def collect_item_pdf_files
+    item_pdf_files=[]
     pages.each do |page|
-      pdf_files << page.pdf_path
+      page.items.each do |item|
+        item_pdf_files << item.pdf_path
+      end
     end
-    pdf_files
+    item_pdf_files
+  end
+  
+  def catalog_path
+    @catalog ||=Catalog.find(catalog_id)
+    @catalog.path
+  end
+  
+  def template_path
+    catalog_path + "/category_#{id}_template.rlayout"
   end
   
   def pdf_path
-    catalog_path + "/section_#{id}.pdf"
+    catalog_path + "/category_#{id}.pdf"
   end
   
   def job_file_path
-    job_file_path=catalog_path + "/section_#{id}.rjob"
+    job_file_path=catalog_path + "/category_#{id}.rjob"
   end
   
-  def generate_category_job
-    pdf=collect_pdf_files
+  def generate_job
     h={
       :action     =>"catalog_section",
-      :pdf_files  => collect_pdf_files,
+      :pdf_files  => collect_item_pdf_files,
       :template   => template_path,
       :output_path => pdf_path,
       :preview     => "true"
     }
     yaml=h.to_yaml
     File.open(job_file_path,'w') {|f| f.write yaml}
-          
   end
   
   def layout_category
